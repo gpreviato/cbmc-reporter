@@ -31,6 +31,7 @@ import System.Directory
 import Data.List hiding (sort, init)
 import Data.Maybe
 import Control.Monad
+import Control.Applicative
 import Data.Monoid hiding (All)
 
 import Control.Concurrent
